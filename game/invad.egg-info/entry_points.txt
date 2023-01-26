@@ -1,0 +1,2 @@
+[console_scripts]
+invad = invad.__main__:main

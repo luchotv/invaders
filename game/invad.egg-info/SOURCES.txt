@@ -1,0 +1,10 @@
+setup.py
+invad/__init__.py
+invad/__main__.py
+invad/game.py
+invad.egg-info/PKG-INFO
+invad.egg-info/SOURCES.txt
+invad.egg-info/dependency_links.txt
+invad.egg-info/entry_points.txt
+invad.egg-info/requires.txt
+invad.egg-info/top_level.txt
